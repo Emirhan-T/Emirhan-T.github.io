@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Privacy Policy for Don't Touch The Chicken mobile game.">
+    <title>Privacy Policy - Don't Touch The Chicken</title>
+    <style>
+        :root {
+            --page-bg: #fafafa;
+            --card-bg: #ffffff;
+            --text-main: #333333;
+            --text-muted: #555555;
+            --heading-main: #111111;
+            --heading-section: #2c3e50;
+            --border-soft: #eaeaea;
+            --border-lighter: #f0f0f0;
+            --meta-bg: #f1f5f9;
+            --meta-text: #475569;
+            --link: #2563eb;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+            line-height: 1.7;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 24px;
+            color: var(--text-main);
+            background-color: var(--page-bg);
+        }
+
+        .container {
+            background: var(--card-bg);
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+
+        h1 {
+            color: var(--heading-main);
+            border-bottom: 2px solid var(--border-soft);
+            padding-bottom: 12px;
+            margin-top: 0;
+            font-size: 2rem;
+            line-height: 1.25;
+        }
+
+        h2 {
+            color: var(--heading-section);
+            margin-top: 34px;
+            border-bottom: 1px solid var(--border-lighter);
+            padding-bottom: 6px;
+            font-size: 1.35rem;
+            line-height: 1.35;
+        }
+
+        h3 {
+            color: var(--heading-section);
+            margin-top: 20px;
+            font-size: 1.1rem;
+        }
+
+        p,
+        li {
+            color: var(--text-muted);
+            font-size: 1rem;
+        }
+
+        ul {
+            padding-left: 22px;
+        }
+
+        a {
+            color: var(--link);
+            word-break: break-word;
+        }
+
+        .meta-info {
+            background: var(--meta-bg);
+            padding: 16px 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+
+        .meta-info p {
+            margin: 4px 0;
+            font-weight: 500;
+            color: var(--meta-text);
+        }
+
+        .notice {
+            background: #fff7ed;
+            border-left: 4px solid #fb923c;
+            padding: 14px 18px;
+            border-radius: 8px;
+            margin: 24px 0;
+        }
+
+        .notice p {
+            margin: 0;
+        }
+
+        .summary-box {
+            background: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 16px 18px;
+        }
+
+        @media (max-width: 640px) {
+            body {
+                margin: 20px auto;
+                padding: 0 14px;
+            }
+
+            .container {
+                padding: 24px 18px;
+                border-radius: 10px;
+            }
+
+            h1 {
+                font-size: 1.65rem;
+            }
+
+            h2 {
+                font-size: 1.18rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Privacy Policy</h1>
+
+    <div class="meta-info">
+        <p><strong>Last Updated:</strong> 08.07.2026</p>
+        <p><strong>Application / Game Name:</strong> Don’t Touch The Chicken</p>
+        <p><strong>Publisher / Developer:</strong> Emirhan Tibetlioğlu</p>
+        <p><strong>Contact:</strong> emirhantibetlioglu@gmail.com</p>
+        <p><strong>Platforms:</strong> Android / iOS</p>
+        <p><strong>Advertising Provider:</strong> Google AdMob</p>
+    </div>
+
+    <p>
+        This Privacy Policy explains the privacy practices of the mobile game named <strong>Don’t Touch The Chicken</strong>.
+        This policy applies when you download, install, open, use, or interact with advertisements displayed within the game.
+    </p>
+
+    <p>
+        Don’t Touch The Chicken is designed as a simple mobile game. The game does not include user account creation,
+        membership, subscriptions, in-app purchases, payment collection, chat features, social media login, user profile
+        creation, or any feature that directly requests personal information from users.
+    </p>
+
+    <p>
+        The game only displays banner advertisements. These advertisements are served by Google AdMob and may involve
+        limited technical data processing by Google and its advertising partners. As the developer, we do not directly
+        request or collect personal information such as name, surname, email address, phone number, physical address,
+        payment information, username, password, photo, contact list, microphone recording, camera image, or similar
+        personal data from users.
+    </p>
+
+    <div class="notice">
+        <p>
+            This policy is intended to describe a game that uses banner advertisements only. If future versions of the
+            game add analytics, subscriptions, in-app purchases, user accounts, push notifications, or additional SDKs,
+            this Privacy Policy should be updated before those features are released.
+        </p>
+    </div>
+
+    <h2>1. Scope</h2>
+    <p>
+        This Privacy Policy applies only to the Don’t Touch The Chicken mobile game. The policy covers the Android and/or
+        iOS versions of the game.
+    </p>
+    <p>This policy applies to the following situations:</p>
+    <ul>
+        <li>Downloading and installing the game on your device</li>
+        <li>Opening and playing the game</li>
+        <li>Viewing banner advertisements within the game</li>
+        <li>Clicking on or interacting with banner advertisements</li>
+        <li>Contacting us through the app store page, support email, or privacy policy links</li>
+    </ul>
+    <p>
+        This policy does not fully control the data processing activities of third-party advertising providers, app
+        stores, device manufacturers, operating system providers, or external websites linked through advertisements.
+        The privacy policies and terms of use of those third parties apply to their own services.
+    </p>
+
+    <h2>2. Information We Collect</h2>
+    <p>
+        Don’t Touch The Chicken does not directly request personal information from users.
+    </p>
+    <p>We do not directly collect the following information:</p>
+    <ul>
+        <li>Name and surname</li>
+        <li>Email address</li>
+        <li>Phone number</li>
+        <li>Physical address</li>
+        <li>Identity information</li>
+        <li>Username or password</li>
+        <li>Profile information</li>
+        <li>Photo, video, or audio recording</li>
+        <li>Contact list</li>
+        <li>Calendar information</li>
+        <li>Precise location data obtained through location permissions</li>
+        <li>Payment information</li>
+        <li>Subscription information</li>
+        <li>In-app purchase information</li>
+        <li>Health, biometric, financial, or sensitive personal data</li>
+    </ul>
+    <p>
+        Since the game does not include account creation, login, registration forms, membership systems, subscription
+        systems, or payment infrastructure, such information is not requested or processed by us.
+    </p>
+
+    <h2>3. Technical Information That May Be Processed Due to Advertisements</h2>
+    <p>
+        The game only displays banner advertisements. Google AdMob may be used to serve these banner advertisements.
+        Advertising providers may automatically process certain technical information through their own technologies,
+        SDKs, and infrastructure.
+    </p>
+    <p>Depending on the advertising provider and your device settings, the following types of data may be processed:</p>
+    <ul>
+        <li>Device type</li>
+        <li>Operating system and version</li>
+        <li>Application version</li>
+        <li>Language setting</li>
+        <li>Screen size and device model</li>
+        <li>Approximate region or country information</li>
+        <li>IP address</li>
+        <li>Advertising identifier, including Android Advertising ID / AAID or Apple Identifier for Advertisers / IDFA</li>
+        <li>Ad impression information</li>
+        <li>Ad click information</li>
+        <li>Ad performance measurement information</li>
+        <li>Technical signals used to prevent ad fraud</li>
+        <li>Limited technical information related to crashes, errors, or performance</li>
+        <li>Advertising preferences and personalization settings</li>
+    </ul>
+    <p>
+        This information may be processed by the advertising provider for the purposes of serving advertisements,
+        managing ad frequency, measuring ad performance, preventing abuse, detecting fraudulent traffic, ensuring
+        security, and complying with legal obligations.
+    </p>
+    <p>
+        As the developer, we do not fully control what data the advertising provider stores in its own systems, how long
+        it keeps such data, or how it processes such data under its own legal basis. The relevant advertising provider’s
+        own privacy policy applies to its data processing practices.
+    </p>
+
+    <h2>4. Types of Advertisements</h2>
+    <p>
+        The game only displays banner advertisements. The game does not include the following advertising or commercial
+        features:
+    </p>
+    <ul>
+        <li>Interstitial ads</li>
+        <li>Rewarded ads</li>
+        <li>Video ads</li>
+        <li>Subscription offers</li>
+        <li>In-app purchases</li>
+        <li>User account-based marketing</li>
+        <li>Email marketing</li>
+        <li>Push notification advertising</li>
+        <li>Direct marketing based on user profiles</li>
+    </ul>
+    <p>
+        Banner advertisements may be personalized or non-personalized depending on the advertising provider’s systems,
+        the user’s region, applicable law, consent status, and device settings.
+    </p>
+    <p>
+        <strong>Non-personalized advertisements</strong> may generally be based on limited signals such as app content,
+        approximate location, device type, or contextual information.
+    </p>
+    <p>
+        <strong>Personalized advertisements</strong> may be served using data such as the user’s advertising identifier,
+        advertising preferences, or interests inferred from previous app or website usage. Personalized advertisements
+        may only be displayed to the extent permitted by applicable laws and platform rules, and where required
+        permissions have been obtained.
+    </p>
+
+    <h2>5. Purposes of Data Use</h2>
+    <p>
+        As the developer, since we do not directly collect personal information from users, we do not use personal data
+        to create user accounts, conduct marketing, perform profiling, or collect payments.
+    </p>
+    <p>Technical data that may be processed by advertising providers may be used for the following purposes:</p>
+    <ul>
+        <li>Displaying banner advertisements in the game</li>
+        <li>Ensuring that advertisements load correctly</li>
+        <li>Measuring ad impressions and click performance</li>
+        <li>Preventing ad fraud and abuse</li>
+        <li>Managing ad frequency</li>
+        <li>Showing users more relevant or contextual advertisements</li>
+        <li>Complying with legal obligations</li>
+        <li>Carrying out security, debugging, and technical maintenance processes</li>
+    </ul>
+    <p>
+        From our perspective, the main purpose of the game is to provide users with a gaming experience and to support
+        that experience through banner advertisements.
+    </p>
+
+    <h2>6. Legal Basis</h2>
+    <p>
+        Different data protection laws may apply depending on your country or region. These may include the Turkish
+        Personal Data Protection Law No. 6698, the European Union General Data Protection Regulation, United Kingdom
+        data protection laws, the California Consumer Privacy Act / California Privacy Rights Act, and specific privacy
+        regulations relating to children.
+    </p>
+    <p>Where data processing takes place, the legal basis for such processing may include one or more of the following:</p>
+    <ul>
+        <li>Processing being necessary for the operation of the game and provision of the service</li>
+        <li>Legitimate interests, such as displaying advertisements, ensuring security, preventing errors, or detecting fraud</li>
+        <li>Consent or explicit consent where required</li>
+        <li>Compliance with legal obligations</li>
+        <li>Processing by the advertising provider under its own legal obligations and service terms</li>
+    </ul>
+    <p>
+        In regions where consent is required for personalized advertisements, cookies, advertising identifiers, or
+        tracking technologies, the necessary permission mechanisms must be implemented in accordance with platform rules
+        and applicable laws.
+    </p>
+
+    <h2>7. Third-Party Service Providers</h2>
+    <p>
+        Third-party advertising providers may be used to display advertisements in the game. These providers may use
+        their own technologies, SDKs, or infrastructure to serve and measure advertisements.
+    </p>
+    <p>Third-party services that may be used include:</p>
+    <ul>
+        <li>Google AdMob</li>
+    </ul>
+    <p>
+        These third parties may process data under their own privacy policies. For information about the data processing
+        practices, retention periods, data sharing practices, user preference mechanisms, and advertising personalization
+        options of third-party advertising providers, you should review the relevant provider’s own privacy policy.
+    </p>
+    <p>
+        We do not control the privacy practices of third-party providers. However, we aim to use reasonably reliable,
+        commonly used, and platform-compliant service providers.
+    </p>
+
+    <h2>8. Data Sharing</h2>
+    <p>
+        Since we do not directly collect personal data from users, we do not sell, rent, or commercially transfer such
+        data to third parties.
+    </p>
+    <p>
+        However, advertising providers may process technical data through their own systems in order to serve banner
+        advertisements. Such processing may be limited to advertisement delivery, measurement, security, fraud
+        prevention, reporting, and legal compliance.
+    </p>
+    <p>Information sharing may occur in the following cases:</p>
+    <ul>
+        <li>Technical data processing by the advertising provider to display advertisements</li>
+        <li>Processing of download, installation, or device information by app stores in their own systems</li>
+        <li>A legal obligation, court order, or request from a competent authority</li>
+        <li>Protection of our rights, users, or third parties</li>
+        <li>Processing by service providers for technical support, security, or troubleshooting purposes</li>
+    </ul>
+
+    <h2>9. Data Retention Period</h2>
+    <p>
+        Since we do not directly collect personal data from users, we do not store user personal data in our own databases.
+    </p>
+    <p>
+        Technical data processed by advertising providers may be retained in accordance with the relevant provider’s own
+        privacy policy, legal obligations, and retention policies. These periods may vary depending on advertising
+        measurement, fraud prevention, security, reporting, or legal compliance requirements.
+    </p>
+    <p>
+        If you contact us by email, your email address and message content may be retained for a reasonable period only
+        to respond to your request, provide support, and manage possible disputes. After your request has been resolved,
+        such information will not be kept longer than necessary unless there is a legal obligation.
+    </p>
+
+    <h2>10. Children’s Privacy</h2>
+    <p>
+        Don’t Touch The Chicken is not specifically designed for children under the age of 13, unless it is separately
+        published in a children or family category with appropriate platform settings. The game does not directly request
+        users’ names, email addresses, phone numbers, addresses, photos, audio recordings, or similar personal information.
+        We do not knowingly intend to collect personal information from children.
+    </p>
+    <p>
+        If the game is considered to be directed to children or heavily used by children, advertising provider settings
+        must be configured in accordance with platform rules and applicable laws relating to children. In such cases,
+        personalized advertisements may need to be disabled, age-appropriate ad categories may need to be used, and any
+        necessary parental consent mechanisms may need to be implemented.
+    </p>
+    <p>
+        If a parent or legal guardian believes that their child has shared personal data with us, they may contact us at
+        emirhantibetlioglu@gmail.com. In such a case, after reasonable verification, we will take steps to delete the relevant
+        information or take necessary measures.
+    </p>
+
+    <h2>11. User Rights</h2>
+    <p>
+        Depending on your country or region, you may have certain rights regarding your personal data.
+    </p>
+    <p>These rights may generally include:</p>
+    <ul>
+        <li>Learning whether your personal data is being processed</li>
+        <li>Requesting access to processed personal data</li>
+        <li>Requesting correction of inaccurate or incomplete data</li>
+        <li>Requesting deletion or destruction of personal data</li>
+        <li>Objecting to data processing</li>
+        <li>Withdrawing consent where processing is based on consent</li>
+        <li>Requesting data portability</li>
+        <li>Filing a complaint with a competent data protection authority</li>
+        <li>Managing advertising personalization preferences</li>
+    </ul>
+    <p>
+        Since we do not directly collect personal data from users, there may be no user profile or account data held
+        about you. However, if you have contacted us by email, you may submit requests regarding the data related to that
+        communication.
+    </p>
+    <p>
+        For data processed by advertising providers, you may need to use the relevant advertising provider’s privacy and
+        user preference mechanisms.
+    </p>
+
+    <h2>12. How You Can Manage Your Advertising Preferences</h2>
+    <p>
+        Depending on your device’s operating system and the advertising provider used, you may be able to manage your
+        advertising personalization preferences.
+    </p>
+    <p>
+        On Android devices, there are generally options to reset the advertising ID or limit ad personalization. On iOS
+        devices, app tracking permissions and advertising personalization preferences can be managed through device
+        settings.
+    </p>
+    <p>
+        The names and locations of these settings may vary depending on the operating system version. Disabling
+        advertising personalization does not necessarily mean that advertisements will stop completely. In such cases,
+        non-personalized, contextual, or general advertisements may still be displayed.
+    </p>
+
+    <h2>13. Permissions</h2>
+    <p>
+        Don’t Touch The Chicken does not request sensitive device permissions that are not necessary for the basic
+        operation of the game.
+    </p>
+    <p>The game does not intend to request the following permissions:</p>
+    <ul>
+        <li>Camera</li>
+        <li>Microphone</li>
+        <li>Contacts</li>
+        <li>Calendar</li>
+        <li>SMS</li>
+        <li>Call logs</li>
+        <li>Precise location</li>
+        <li>Broad access to files</li>
+        <li>Access to photo gallery</li>
+        <li>Bluetooth-based device tracking</li>
+        <li>Health data</li>
+    </ul>
+    <p>
+        Depending on the technical requirements of the game or the advertising SDK, basic permissions such as internet
+        access may be used. Internet access may be necessary to load and display banner advertisements in the game.
+    </p>
+
+    <h2>14. Analytics, Crash Reporting, and Performance Tracking</h2>
+    <p>
+        This game does not use an independent user analytics, behavioral tracking, or profiling system.
+    </p>
+    <p>The following systems are not used:</p>
+    <ul>
+        <li>User account analytics</li>
+        <li>Behavioral in-game tracking</li>
+        <li>Heatmap tracking</li>
+        <li>Session recording</li>
+        <li>User segmentation</li>
+        <li>Email marketing tracking</li>
+        <li>Subscription conversion tracking</li>
+    </ul>
+    <p>
+        However, advertising providers or app stores may process limited technical information related to advertisement
+        operation, app technical performance, crash reports, or store statistics. Such data is subject to the relevant
+        third parties’ own policies.
+    </p>
+
+    <h2>15. International Data Transfers</h2>
+    <p>
+        Advertising providers and app stores may operate globally. Therefore, technical data may be processed or stored
+        on servers located outside your country.
+    </p>
+    <p>
+        Such transfers may be carried out in accordance with the relevant provider’s own privacy policy, data transfer
+        mechanisms, agreements, and applicable laws.
+    </p>
+    <p>
+        Since we do not directly collect personal data, we do not intend to transfer user data internationally through
+        our own systems. However, third-party advertising providers may conduct international data processing activities
+        as part of their advertising infrastructure.
+    </p>
+
+    <h2>16. Security</h2>
+    <p>
+        The fact that we do not directly collect personal data from users does not eliminate our responsibilities
+        regarding data security. We aim to take reasonable technical and administrative security measures regarding the
+        game and any third-party SDKs used.
+    </p>
+    <p>In this context:</p>
+    <ul>
+        <li>We aim not to collect unnecessary personal data</li>
+        <li>We do not request unnecessary permissions</li>
+        <li>We keep third-party SDK usage limited</li>
+        <li>We carefully select advertising providers</li>
+        <li>Security and compliance improvements may be made through app updates</li>
+        <li>We adopt the principle of data minimization</li>
+    </ul>
+    <p>
+        However, no method of transmission over the internet or electronic storage is completely secure. Users should
+        keep their device security settings up to date and download applications only from trusted app stores.
+    </p>
+
+    <h2>17. External Links</h2>
+    <p>
+        When you click on banner advertisements, you may be redirected to third-party websites, app stores, or advertisers.
+    </p>
+    <p>
+        These external sites and services are not under our control. We are not responsible for the content, privacy
+        practices, cookies, data processing activities, or security measures of these third parties.
+    </p>
+    <p>
+        Before using any third-party site or service, you are encouraged to review that third party’s privacy policy and
+        terms of use.
+    </p>
+
+    <h2>18. App Stores</h2>
+    <p>
+        If you download the game through Google Play, Apple App Store, or another app store, the relevant app store may
+        process certain data under its own terms of service and privacy policy.
+    </p>
+    <p>Such data may include:</p>
+    <ul>
+        <li>Download and installation information</li>
+        <li>Device information</li>
+        <li>Store account information</li>
+        <li>Country or region information</li>
+        <li>App reviews</li>
+        <li>Error and performance reports</li>
+        <li>Store interactions</li>
+    </ul>
+    <p>
+        Such data is controlled by the relevant app store. We do not control the data processing activities carried out
+        by app stores in their own systems.
+    </p>
+
+    <h2>19. Subscriptions and Payment Information</h2>
+    <p>
+        Don’t Touch The Chicken does not include subscriptions, paid memberships, in-app purchases, or any payment
+        collection system.
+    </p>
+    <p>
+        Therefore, we do not collect payment card information, billing information, purchase history, subscription status,
+        or payment method information.
+    </p>
+    <p>
+        If in-app purchases, subscriptions, or payment features are added to the game in the future, this Privacy Policy
+        will be updated and users will be informed about the relevant data processing activities.
+    </p>
+
+    <h2>20. Push Notifications</h2>
+    <p>
+        Don’t Touch The Chicken does not intend to send push notifications.
+    </p>
+    <p>
+        Therefore, notification tokens, marketing notification preferences, or notification interaction data are not
+        collected by us.
+    </p>
+    <p>
+        If a push notification feature is added in the future, the necessary permissions will be obtained from users and
+        this Privacy Policy will be updated.
+    </p>
+
+    <h2>21. Location Data</h2>
+    <p>
+        Don’t Touch The Chicken does not request permission to access your device’s precise location.
+    </p>
+    <p>
+        We do not intend to collect precise location data through GPS, Bluetooth, Wi-Fi scanning, or similar methods.
+    </p>
+    <p>
+        However, advertising providers or technical service providers may estimate approximate country, city, or region
+        information based on the IP address. Such approximate location information may be used for advertisement delivery,
+        regional ad eligibility, security, fraud prevention, and legal compliance purposes.
+    </p>
+
+    <h2>22. Cookies and Similar Technologies</h2>
+    <p>
+        Classic browser cookies may not always be used in mobile applications. However, advertising SDKs may use
+        advertising identifiers, device identifiers, local storage, SDK-based identifiers, or similar technologies.
+    </p>
+    <p>These technologies may be used for the following purposes:</p>
+    <ul>
+        <li>Displaying advertisements</li>
+        <li>Measuring ad clicks</li>
+        <li>Analyzing ad performance</li>
+        <li>Limiting ad frequency</li>
+        <li>Preventing fraudulent traffic and abuse</li>
+        <li>Applying the user’s advertising preferences</li>
+    </ul>
+    <p>
+        Users may reset the advertising identifier or manage advertising personalization options through device settings.
+    </p>
+
+    <h2>23. Statement Regarding “Sale” or “Sharing”</h2>
+    <p>
+        We do not sell personal data directly collected from users.
+    </p>
+    <p>
+        However, under certain privacy laws, sharing data with third-party advertising providers for advertising purposes
+        may be interpreted as “sale,” “sharing,” or “targeted advertising.” Therefore, depending on your region, you may
+        have the right to manage your advertising personalization or targeted advertising preferences.
+    </p>
+    <p>
+        You may exercise these rights through your device settings, advertising provider preference tools, or by contacting
+        us. For data processed within the advertising provider’s own systems, you may need to use the relevant provider’s
+        own preference and privacy tools directly.
+    </p>
+
+    <h2>24. Withdrawal of Consent</h2>
+    <p>
+        Where data processing is based on consent, you may withdraw your consent at any time.
+    </p>
+    <p>
+        Withdrawal of consent does not affect the lawfulness of processing carried out based on consent before the date
+        of withdrawal.
+    </p>
+    <p>
+        You may manage your consent for advertising personalization or tracking permissions through device settings,
+        in-app permission screens, or the advertising provider’s preference tools.
+    </p>
+
+    <h2>25. Data Minimization Principle</h2>
+    <p>
+        Our core approach for Don’t Touch The Chicken is to process as little data as possible.
+    </p>
+    <p>For this reason:</p>
+    <ul>
+        <li>We do not create user accounts</li>
+        <li>We do not request users’ names or email addresses</li>
+        <li>We do not offer a membership system</li>
+        <li>We do not offer a subscription system</li>
+        <li>We do not collect payment information</li>
+        <li>We do not request unnecessary device permissions</li>
+        <li>We do not offer social media login</li>
+        <li>We do not provide in-game chat or user-generated content features</li>
+        <li>We keep third-party data processing activities limited, except for advertisements</li>
+    </ul>
+
+    <h2>26. Changes to This Policy</h2>
+    <p>
+        This Privacy Policy may be updated from time to time.
+    </p>
+    <p>Updates may be made for the following reasons:</p>
+    <ul>
+        <li>Adding new features to the game</li>
+        <li>Changing the advertising provider</li>
+        <li>Changes in platform rules</li>
+        <li>Changes in legal requirements</li>
+        <li>Changes in data processing practices</li>
+        <li>Making the text clearer and more understandable</li>
+    </ul>
+    <p>
+        When the policy is updated, the “Last Updated” date on this page will be changed. If significant changes are
+        made, additional notice or consent mechanisms may be implemented where required by applicable law.
+    </p>
+    <p>
+        Your continued use of the game may mean that you accept the current version of this Privacy Policy. Therefore,
+        you are encouraged to review this policy regularly.
+    </p>
+
+    <h2>27. Contact</h2>
+    <p>
+        If you have any questions about this Privacy Policy, our data processing practices, or your user rights, you may
+        contact us.
+    </p>
+    <ul>
+        <li><strong>Publisher / Developer:</strong> Emirhan Tibetlioğlu</li>
+        <li><strong>Email:</strong> emirhantibetlioglu@gmail.com</li>
+        <li><strong>Address:</strong> Çankaya/Ankara</li>
+        <li><strong>Website:</strong> https://emirhan-t.github.io/</li>
+    </ul>
+    <p>
+        When evaluating your requests, we may ask for reasonable additional information to verify your identity or your
+        connection to the request. Such verification will be carried out only for the purpose of securely responding to
+        the request.
+    </p>
+
+    <h2>28. Summary</h2>
+    <div class="summary-box">
+        <p>
+            Don’t Touch The Chicken does not directly collect personal information from users. The game does not include
+            accounts, subscriptions, payments, in-app purchases, chat, social login, or profile systems. The game only
+            displays banner advertisements.
+        </p>
+        <p>
+            In order to display banner advertisements, Google AdMob and its advertising partners may process limited
+            technical data such as advertising identifiers, IP address, device information, and advertising interactions.
+            Such data may be used for advertisement delivery, ad measurement, fraud prevention, security, and legal
+            compliance purposes.
+        </p>
+        <p>
+            Users may manage their advertising personalization preferences through device settings and advertising
+            provider preference tools. For privacy-related questions, users may contact us at emirhantibetlioglu@gmail.com.
+        </p>
+    </div>
+</div>
+
+</body>
+</html>
